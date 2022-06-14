@@ -8,12 +8,6 @@
   padding: 0 10%;
 }
 
-.logo {
-  font-size: 2rem;
-  color: white;
-  font-weight: bold;
-}
-
 .header ul {
   list-style: none;
   margin: 0;
@@ -45,4 +39,10 @@
   border-radius: 12px;
   padding: 0 1rem;
   margin-left: 0.5rem;
+}
+
+.logo a {
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
 }
