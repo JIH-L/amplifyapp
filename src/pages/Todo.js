@@ -5,7 +5,7 @@ function TodoPages() {
         <div>
             <h1>My Todos</h1>
             <Todo text="Learn React" />
-            <Todo text="React" />
+            <Todo text="React" />``
             <Todo text="For React" />
         </div>
     );
